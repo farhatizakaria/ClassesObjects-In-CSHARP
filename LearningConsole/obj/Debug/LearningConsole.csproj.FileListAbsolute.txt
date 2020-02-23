@@ -1,0 +1,6 @@
+c:\users\hilcomputer\documents\visual studio 2013\Projects\LearningConsole\LearningConsole\bin\Debug\LearningConsole.exe.config
+c:\users\hilcomputer\documents\visual studio 2013\Projects\LearningConsole\LearningConsole\bin\Debug\LearningConsole.exe
+c:\users\hilcomputer\documents\visual studio 2013\Projects\LearningConsole\LearningConsole\bin\Debug\LearningConsole.pdb
+c:\users\hilcomputer\documents\visual studio 2013\Projects\LearningConsole\LearningConsole\obj\Debug\LearningConsole.csprojResolveAssemblyReference.cache
+c:\users\hilcomputer\documents\visual studio 2013\Projects\LearningConsole\LearningConsole\obj\Debug\LearningConsole.exe
+c:\users\hilcomputer\documents\visual studio 2013\Projects\LearningConsole\LearningConsole\obj\Debug\LearningConsole.pdb
